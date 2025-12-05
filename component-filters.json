@@ -16,7 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "ue-hero"
+      "ue-hero",
+      "teaser"
     ]
   },
   {
@@ -38,7 +39,7 @@
       "image",
       "button",
       "title",
-      "ue-hero"
+      "teaser"
     ]
   }
 ]
